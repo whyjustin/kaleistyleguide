@@ -1,0 +1,9 @@
+{
+  "author": "Thomas Davis",
+  "name": "kaleistyleguide",
+  "description": "Fully documented and synchronized style sheets.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/whyjustin/kaleistyleguide"
+  }
+}
